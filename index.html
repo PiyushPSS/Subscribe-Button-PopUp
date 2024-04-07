@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subscribe Popup Page</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+
+    <button class="popup" onclick="SubscribeButtonClicked()">Subscribe Us</button>
+
+    <div class="subscribeContent">
+        <i class="fa fa-times fa-2x" aria-hidden="true" id="crossButton" onclick="onCrossClick()"></i>
+        <h2>Join our Exclusive Newsletter</h2>
+        <p style="text-align: center;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere blanditiis deleniti sit distinctio, mollitia perspiciatis</p>
+        <input type="email" name="Enter Email" placeholder="Enter Email" class="enterEmail"> <br>
+        <button class="signUpButton" onclick="onSignUp()">Sign Up</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
