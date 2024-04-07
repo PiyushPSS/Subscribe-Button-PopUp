@@ -1,3 +1,3 @@
 Below is the preview of the Subscribe Popup Page.
 
-<video src = "https://github.com/PiyushPSS/Subscribe-Popup-Page/assets/78641552/34e47ce4-cce3-407e-9576-c94a34f01166" autoplay = "true">
+![Recording2024-04-07130320-ezgif com-video-to-gif-converter](https://github.com/PiyushPSS/Subscribe-Popup-Page/assets/78641552/3dbc6649-102a-46a5-bf97-528b85dbdf9a)
